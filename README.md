@@ -14,9 +14,17 @@ I believe in writing **clean, efficient, and maintainable code** and enjoy colla
 Currently, I am focused on **enhancing my development skills, contributing to open source, and preparing for tech interviews**.  
 
 ## 🛠 Tech Stack:  
-- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-- **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-- **Data Structures & Algorithms:** Solved **200+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+- **Frontend:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+- **Backend:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+- **Data Structures & Algorithms:**  
+  Solved **200+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
 ## 🔥 What I'm Working On  
 - 🚀 Enhancing my **full-stack development** skills  
@@ -26,19 +34,22 @@ Currently, I am focused on **enhancing my development skills, contributing to op
 - 💡 Preparing for **technical interviews**  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjuraghuwanshi/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anjuraghuwanshi.github.io/my_portfolio/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anjuraghuwanshi1601@gmail.com)  
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/anjuraghuwanshi/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anjuraghuwanshi.github.io/my_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:anjuraghuwanshi1601@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 **Feel free to connect and collaborate! 🚀**  
 
-
----
-
-**Feel free to connect and collaborate! 🚀**  
 
 <!---
 anjuraghuwanshi/anjuraghuwanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
